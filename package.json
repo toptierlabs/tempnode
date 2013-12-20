@@ -1,0 +1,11 @@
+{ 
+	"name": "Physiotec_Node", 
+	"version": "1.0.0", 
+	"dependencies": { 
+		"express": "~3.4.7",
+		"mysql": "2.0.0-rc2",
+		"js-yaml": "~3.0.0",
+		"crypto" : "0.0.3",
+		"request": "~2.30.0"
+	} 
+}

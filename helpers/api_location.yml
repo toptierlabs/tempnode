@@ -1,0 +1,3 @@
+method:	http
+endpoint:	localhost:3000
+loginws: /api/v1/users/login
